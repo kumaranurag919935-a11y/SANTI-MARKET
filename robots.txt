@@ -1,0 +1,7 @@
+# Santi Market — robots.txt
+# https://santimarket.in/robots.txt
+
+User-agent: *
+Allow: /
+
+Sitemap: https://santimarket.in/sitemap.xml
